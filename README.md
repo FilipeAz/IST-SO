@@ -8,4 +8,4 @@
 
 [SO](https://fenix.tecnico.ulisboa.pt/disciplinas/SO4517/2015-2016/1-semestre)
 
-Projects Grade - 16.9/20
+Project Grade - 16.9/20
